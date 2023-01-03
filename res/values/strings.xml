@@ -961,4 +961,35 @@
     <!-- Ambient Ticker -->
     <string name="pulse_on_new_tracks_title">Music ticker</string>
     <string name="pulse_on_new_tracks_summary">Show music ticker on Ambient Display during track change</string>
+
+    <!-- ColorSchemes -->
+    <string name="monet_color_schemes_styles_title">Monet Color schemes</string>
+    <string name="style_expressive">Expressive</string>
+    <string name="style_spritz">Spritz</string>
+    <string name="style_tonal_spot">Tonal Spot</string>
+    <string name="style_fruit_salad">Fruit Salad</string>
+    <string name="style_rainbow">Rainbow</string>
+    <string name="style_vibrant">Vibrant</string>
+    <string name="style_vivid">Vivid</string>
+    <string name="style_eclipse">Eclipse</string>
+    <string name="style_lilac">Lilac</string>
+    <string name="style_amber">Amber</string>
+    <string name="style_gleam">Gleam</string>
+
+    <!-- Escaped color scheme json objects -->    
+    <string name="custom_color_scheme_ex_value">{\"android.theme.customization.system_palette\":\"e05cfb\",\"android.theme.customization.theme_style\":\"EXPRESSIVE\"}</string>
+    <string name="custom_color_scheme_sz_value">{\"android.theme.customization.system_palette\":\"0093A8\",\"android.theme.customization.theme_style\":\"SPRITZ\"}</string>
+    <string name="custom_color_scheme_ts_value">{\"android.theme.customization.system_palette\":\"FF382D\",\"android.theme.customization.theme_style\":\"TONAL_SPOT\"}</string>
+    <string name="custom_color_scheme_fs_value">{\"android.theme.customization.system_palette\":\"CEEA0B\",\"android.theme.customization.theme_style\":\"FRUIT_SALAD\"}</string>
+    <string name="custom_color_scheme_rb_value">{\"android.theme.customization.system_palette\":\"7764FF\",\"android.theme.customization.theme_style\":\"RAINBOW\"}</string>
+    <string name="custom_color_scheme_vb_value">{\"android.theme.customization.system_palette\":\"01FF94\",\"android.theme.customization.theme_style\":\"VIBRANT\"}</string>
+    <string name="custom_color_scheme_vv_value">{\"android.theme.customization.system_palette\":\"B1611C\",\"android.theme.customization.theme_style\":\"VIVID\"}</string>
+    <string name="custom_color_scheme_ee_value">{\"android.theme.customization.system_palette\":\"F2EDD7\",\"android.theme.customization.theme_style\":\"ECLIPSE\"}</string>
+    <string name="custom_color_scheme_le_value">{\"android.theme.customization.system_palette\":\"E3C9CE\",\"android.theme.customization.theme_style\":\"LILAC\"}</string>
+    <string name="custom_color_scheme_am_value">{\"android.theme.customization.system_palette\":\"01edcc\",\"android.theme.customization.theme_style\":\"AMBER\"}</string>
+    <string name="custom_color_scheme_gl_value">{\"android.theme.customization.system_palette\":\"93385F\",\"android.theme.customization.theme_style\":\"GLEAM\"}</string>
+    
 </resources>
+
+
+

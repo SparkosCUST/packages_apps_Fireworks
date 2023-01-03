@@ -886,4 +886,31 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+
+    <!-- Color Schemes -->
+    <string-array name="custom_color_scheme_entries" translatable="false">
+        <item>@string/style_expressive</item>
+        <item>@string/style_spritz</item>
+        <item>@string/style_tonal_spot</item>
+        <item>@string/style_fruit_salad</item>
+        <item>@string/style_rainbow</item>
+        <item>@string/style_vibrant</item>
+        <item>@string/style_vivid</item>
+        <item>@string/style_eclipse</item>
+        <item>@string/style_lilac</item>
+    </string-array>
+    <string-array name="custom_color_scheme_values" translatable="false">
+        <item>@string/custom_color_scheme_ex_value</item>
+        <item>@string/custom_color_scheme_sz_value</item>
+        <item>@string/custom_color_scheme_ts_value</item>
+        <item>@string/custom_color_scheme_fs_value</item>
+        <item>@string/custom_color_scheme_rb_value</item>
+        <item>@string/custom_color_scheme_vb_value</item>
+        <item>@string/custom_color_scheme_vv_value</item>
+        <item>@string/custom_color_scheme_ee_value</item>
+        <item>@string/custom_color_scheme_le_value</item>
+        <item>@string/custom_color_scheme_am_value</item>
+        <item>@string/custom_color_scheme_gl_value</item>
+    </string-array>
+    
 </resources>
