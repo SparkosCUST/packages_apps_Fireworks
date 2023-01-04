@@ -461,6 +461,8 @@
     <!-- Lockscreen battery info -->
     <string name="lockscreen_charging_info_title">Show charging info in lockscreen</string>
     <string name="lockscreen_charging_info_summary">Shows temperature, charging current and more while plugged in</string>
+    <string name="kg_custom_clock_top_margin_title">Clock bottom spacing</string>
+    <string name="kg_big_clock_text_size_title">Large clock size</string>
 
     <!-- Blink flashlight for incoming calls -->
     <string name="flashlight_on_call_title">Blink Flashlight for incoming call</string>

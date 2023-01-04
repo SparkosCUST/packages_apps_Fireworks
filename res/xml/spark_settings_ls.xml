@@ -57,6 +57,24 @@
         android:summary="@string/theme_customization_clock_font_summary"
         android:fragment="com.spark.settings.fragments.ClockFontsPicker"/>
 
+    <com.spark.support.preferences.SecureSettingSeekBarPreference
+        android:key="kg_custom_clock_top_margin"
+        android:title="@string/kg_custom_clock_top_margin_title"
+        android:max="500"
+        settings:min="80"
+        settings:interval="1"
+        android:defaultValue="280"
+        settings:units="dp" />
+
+    <com.spark.support.preferences.SecureSettingSeekBarPreference
+        android:key="kg_big_clock_text_size"
+        android:title="@string/kg_big_clock_text_size_title"
+        android:max="280"
+        settings:min="80"
+        settings:interval="1"
+        android:defaultValue="86"
+        settings:units="dp" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
