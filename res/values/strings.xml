@@ -991,6 +991,10 @@
     <string name="custom_color_scheme_am_value">{\"android.theme.customization.system_palette\":\"01edcc\",\"android.theme.customization.theme_style\":\"AMBER\"}</string>
     <string name="custom_color_scheme_gl_value">{\"android.theme.customization.system_palette\":\"93385F\",\"android.theme.customization.theme_style\":\"GLEAM\"}</string>
     
+    <!-- Force expanded notifications -->
+    <string name="force_expanded_notifications_title">Force expand notifications</string>
+    <string name="force_expanded_notifications_summary">Available only for apps that support expanded notifications</string>
+    
 </resources>
 
 
